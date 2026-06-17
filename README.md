@@ -57,7 +57,11 @@ A Java Object-Oriented Programming project that simulates an online gaming platf
 
 ## UML Diagram
 
-The UML class diagram is included in the repository documentation.
+The UML class diagram for this project was designed using draw.io (diagrams.net).
+
+Files included:
+- `UML OOP - Jocuri online.drawio` – editable source file
+- `UML OOP - Jocuri online.png` – exported image version
 
 ## Technologies
 
